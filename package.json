@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.rendering.camera.rendertexturecreator",
-  "version": "2.0.5",
-  "displayName": "Rendering Camera RenderTextureCreator",
+  "name": "com.unityessentials.rendering.camera.rendertexture",
+  "version": "2.0.6",
+  "displayName": "Rendering Camera RenderTexture",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
